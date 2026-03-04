@@ -1,0 +1,35 @@
+# Required Expo image assets
+
+This project expects the following files to exist in this folder:
+
+1) icon.png
+   - Used by: expo.icon
+   - Recommended size: 1024x1024 px (square PNG)
+   - Suggested sources:
+     - https://www.flaticon.com/search?word=weather%20app%20icon
+     - https://icons8.com/icons/set/weather
+
+2) adaptive-icon.png
+   - Used by: expo.android.adaptiveIcon.foregroundImage
+   - Recommended size: 1024x1024 px (PNG with transparent background)
+   - Suggested sources:
+     - https://www.flaticon.com/search?word=weather
+     - https://icons8.com/icons/set/weather
+
+3) splash-icon.png
+   - Used by: expo.splash.image
+   - Recommended size: ~1242x2436 px canvas (or high-res centered artwork)
+   - Suggested sources:
+     - https://undraw.co/illustrations (weather-related illustrations)
+     - https://www.freepik.com/search?format=search&query=weather%20illustration
+
+4) favicon.png
+   - Used by: expo.web.favicon
+   - Recommended size: 48x48 or 64x64 px PNG
+   - Suggested sources:
+     - https://favicon.io/
+     - https://realfavicongenerator.net/
+
+Notes
+- Keep file names exactly as listed above, or update app.json paths accordingly.
+- Ensure you have proper license/usage rights for any downloaded assets.
