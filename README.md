@@ -16,6 +16,4 @@ npm run start
 ```
 
 Then open with Expo Go on mobile, or run `npm run web` for browser preview.
-## Assets
-- Add required Expo icon/splash files under `assets/` as documented in `assets/REQUIRED_ASSETS.txt`.
 
